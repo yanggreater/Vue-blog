@@ -2,7 +2,7 @@
 	<div id="nav">
 		
 		    <ul>
-          <router-link tag='li'to='/home'>
+          <router-link tag='li' to='/home'>
               
               <a class='nav active'><Icon type="ios-home"></Icon>首页</a>
           </router-link>
